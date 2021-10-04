@@ -1,0 +1,5 @@
+wish_message.on_load: Wish Message is starting running
+wish_message.date: §6Today is %s, %s, %s
+wish_message.no_festival: No festival today
+wish_message.festival: Today is §b%s\n§9%s
+wish_message.help: Show today's blessing

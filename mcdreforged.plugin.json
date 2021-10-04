@@ -1,0 +1,15 @@
+{
+  "id": "wish_message",
+  "version": "1.0.0",
+  "name": "Wish Message",
+  "description": "On Special day, it will wish the player.",
+  "author": [
+    "MingxuanGame"
+  ],
+  "link": "https://github.com/MingxuanGame/WishMessage",
+  "dependencies": {
+  },
+  "resources": [
+    "lang"
+  ]
+}
